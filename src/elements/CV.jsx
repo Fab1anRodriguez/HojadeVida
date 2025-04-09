@@ -7,7 +7,7 @@ const DescargarHojaDeVida = () => {
             <a 
                 href={HojadeVida} download="FabianRodriguez_CV.pdf" className="boton-cv text-center mb-4">
                 <i className="bi bi-filetype-pdf"></i>
-                <span>Descargar CV</span>
+                <span>Descargar HV</span>
             </a>
         
     );

@@ -143,9 +143,10 @@
 }
 
 .foto img {
-  width: 100%;
+  width: 120%;
   height: 100%;
   object-fit: cover;
+  transform: translateX(-7%);
 }
 
 .sobreMi {

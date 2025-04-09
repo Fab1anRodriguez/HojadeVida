@@ -1,5 +1,5 @@
 import React from 'react';
-import fabian from '../foto/fabian.jpg';
+import fabian from '../foto/fabian.png';
 import DescargarHojaDeVida from './CV';
 
 function Info() {
