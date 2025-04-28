@@ -1,5 +1,5 @@
 import React from "react";
-import HojadeVida from '../pdf/HojadeVida.pdf';
+import HojadeVida from '../pdf/Fabian_Rodriguez_HojaVida.pdf';
 
 const DescargarHojaDeVida = () => {
     return (
